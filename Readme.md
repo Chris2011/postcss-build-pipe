@@ -15,3 +15,8 @@
 4. postcss-custom-properties (plugin) - Using CSS Custom Properties.
 5. postcss-nested (plugin) - Nesting selecetors like in SCSS.
 6. purgecss (plugin) - Removes unused css by checking the html files.
+
+## Usage
+
+1. `yarn`
+2. `yarn build`
