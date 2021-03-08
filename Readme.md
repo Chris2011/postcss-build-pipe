@@ -3,7 +3,7 @@
 
 ### I'm moving from SCSS to postcss and I was looking for a nice alternative of the 9862930 lines CSS file of WordPress instances. This is why I created this little build pipe.
 
-## Was is used
+## What is used?
 
 ### Build tool
 1. ViteJS - Blazing fast (really) build tool and dev server based on es modules.
