@@ -1,0 +1,22 @@
+{
+  "name": "postcss-build-pipe",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.2",
+    "autoprefixer": "^10.2.5",
+    "browserslist": "^4.16.3",
+    "cssnano": "^5.0.0-rc.1",
+    "cssnano-preset-advanced": "^4.0.7",
+    "postcss-custom-properties": "^11.0.0",
+    "postcss-nested": "^5.0.5",
+    "vite": "^2.0.5"
+  },
+  "browserslist": [
+    "defaults"
+  ]
+}

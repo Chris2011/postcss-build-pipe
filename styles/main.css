@@ -1,0 +1,33 @@
+@import "_reset.css";
+
+:root {
+  --margin-top: 60px;
+}
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  margin-top: var(--margin-top);
+  transform: scale(0.5);
+  transition: all 400ms ease-in;
+
+  p {
+    margin-top: var(--margin-top);
+    width: 100%;
+    height: 50px;
+    display: block;
+    background-color: yellow;
+    border: 1px solid black;
+
+    &.t {
+      color: green;
+    }
+  }
+}
+
+div {
+  margin-top: var(--margin-top);
+}
